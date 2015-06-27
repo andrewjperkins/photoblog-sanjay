@@ -1,0 +1,4 @@
+data/*
+target/*
+src/main/resources/public/css/bootstrap.css
+src/main/resources/public/js/bootstrap.js
