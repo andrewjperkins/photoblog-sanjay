@@ -42,8 +42,8 @@
   
    <build>
     <plugins>
-	  <!-- Vendoring Plugin -->
-	  <!-- will copy this apps dependancies to you local machin when running "mvn clean install" -->
+	<!-- Vendoring Plugin -->
+	<!-- will copy app dependencies to your local machine when running "mvn clean install" -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-dependency-plugin</artifactId>
